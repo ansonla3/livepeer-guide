@@ -1,5 +1,9 @@
 ## Livepeer [https://livepeer.org/](https://livepeer.org/)
 
+## Presentation (Learn more about Livepeer)
+https://www.youtube.com/watch?v=tJ6LCmRTwkk  (Nov/2018)  
+https://www.youtube.com/watch?v=ci5tMLEVX_0&t=483s (Sept/2018)  
+
 ## Dapps build on Livepeer
 
 ## Delegator Guides
