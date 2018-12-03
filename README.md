@@ -7,10 +7,10 @@
 ## Transcoder / Orchestrator Guides
 
 ## Livepeer Communication channels
-[Forum](https://forum.livepeer.org/)
-[Discord (Developer)](https://discord.gg/wwSzGU)
-[Telegram](https://t.me/livepeerorg)
-Wechat
+[Forum](https://forum.livepeer.org/)  
+[Discord (Developer)](https://discord.gg/wwSzGU)  
+[Telegram](https://t.me/livepeerorg)  
+Wechat  
 
 ## Available Exchanges
 [Radar Relay](https://app.radarrelay.com/LPT/WETH)
