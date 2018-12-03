@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=ci5tMLEVX_0&t=483s (Sept/2018)
 ## Delegator Guides
 
 ## Transcoder / Orchestrator Guides
+[Trasncoder Guide - Good to Read](https://github.com/alexlines/livepeer-transcoder-ops)  
 
 ## Livepeer Communication channels
 [Forum](https://forum.livepeer.org/)  
