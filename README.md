@@ -7,8 +7,9 @@
 ## Transcoder / Orchestrator Guides
 
 ## Livepeer Communication channels
-Discord (Developer)
-Telegram
+[Forum](https://forum.livepeer.org/)
+[Discord (Developer)](https://discord.gg/wwSzGU)
+[Telegram](https://t.me/livepeerorg)
 Wechat
 
 ## Available Exchanges
