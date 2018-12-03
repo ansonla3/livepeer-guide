@@ -7,6 +7,9 @@
 ## Transcoder / Orchestrator Guides
 
 ## Livepeer Communication channels
+Discord (Developer)
+Telegram
+Wechat
 
 ## Available Exchanges
 [Radar Relay](https://app.radarrelay.com/LPT/WETH)
