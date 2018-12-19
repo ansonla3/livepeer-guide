@@ -26,6 +26,8 @@ OpenZeppelin
 Wechat  
 
 ## Available Exchanges
+[Poloniex](https://poloniex.com/exchange#btc_lpt)
+
 [Radar Relay](https://app.radarrelay.com/LPT/WETH)
 
 [DDEX](https://ddex.io/trade/LPT-WETH)
